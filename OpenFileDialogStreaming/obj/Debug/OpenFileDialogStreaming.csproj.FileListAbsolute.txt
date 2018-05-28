@@ -1,0 +1,8 @@
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\bin\Debug\OpenFileDialogStreaming.exe.config
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\bin\Debug\OpenFileDialogStreaming.exe
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\bin\Debug\OpenFileDialogStreaming.pdb
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\obj\Debug\OpenFileDialogStreaming.Form1.resources
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\obj\Debug\OpenFileDialogStreaming.Properties.Resources.resources
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\obj\Debug\OpenFileDialogStreaming.csproj.GenerateResource.Cache
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\obj\Debug\OpenFileDialogStreaming.exe
+c:\users\media\documents\visual studio 2013\Projects\OpenFileDialogStreaming\OpenFileDialogStreaming\obj\Debug\OpenFileDialogStreaming.pdb
